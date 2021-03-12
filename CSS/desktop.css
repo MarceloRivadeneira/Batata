@@ -1,0 +1,11 @@
+.detalles-contenedores{
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  width: 1024px;
+  padding-bottom: 40px;
+}
+
+.seccion5-tarjetas-tarjeta{
+  justify-content: center;
+}
